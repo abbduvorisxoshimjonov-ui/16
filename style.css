@@ -1,0 +1,127 @@
+.ota{
+    justify-content: space-between;
+    background-color: #282829;
+    display: flex;
+    height: 50px;
+    padding-right: 20px;
+    
+    
+}
+
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+.box1{
+    margin: auto;
+    text-align: center;
+    
+}
+
+.bir img{
+    width: 393px;
+    border-radius: 10px;
+}
+
+.bir{
+    width: 393px;
+    height: 396px;
+    border-radius: 20px;
+}
+.ota2{
+    display: flex;
+    margin-left: 50px;
+    flex-wrap: wrap;
+}
+.ikki img{
+    width: 446px;
+    margin-left: 5px;
+    border-radius: 10px;
+
+}
+
+.ikki {
+    width: 430px;
+    margin-left: 40px;
+}
+.ikki h1{
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.ikki p{
+    margin-top: 30px;
+}
+.uch img{
+    width: 440px;
+    margin-left: 60px;
+    border-radius: 10px;
+}
+.uch p{
+    height: 200px;
+    width: 400px;
+    margin-left: 80px;
+}
+
+
+.uch h1 {
+    margin-left: 60px;    
+}
+.besh img{
+    width: 400px;
+    height: 250px;
+    margin-top: 1px;
+    border-radius: 10px;
+}
+.besh p{
+    width: 400px;
+}
+.besh h1{
+    margin-left: 1px;
+}
+.olti img{
+    width:410px ;
+    height:250px ;
+    margin-left: 60px;
+    border-radius: 10px;
+
+}
+.olti p{
+    width: 400px;
+    margin-left: 50px;
+    
+}
+.olti h1{
+    margin-left: 50px;
+}
+.yetti img{
+    width: 400px;
+    margin-left: 60px;
+    height: 250px;
+    border-radius: 10px;
+}
+.yetti p{
+    width: 400px;
+    margin-left: 50px;
+}
+.yetti h1{
+    margin-left: 50px;
+}
+.ota3{
+    background-color: #282829;
+    height: 40px;
+    justify-content:end;
+    display: flex;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+
+
+
